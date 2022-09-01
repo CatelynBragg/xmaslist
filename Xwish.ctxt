@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Xwish
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\ where\ the\ arrays\ are\ set\ up\ and\ the\ if\ statements\ that\ allows\ the\ user\ to\ select\n\ which\ method\ they\ want\ to\ go\ to\n\ \n
+comment2.params=nameRay\ numRay\ wishRay\ n
+comment2.target=void\ OP1(java.lang.String[],\ int[],\ java.util.ArrayList[],\ int)
+comment2.text=\n\ Method\ OP1\ is\ user\ option\ 1\ where\ the\ user\ inputs\ their\ name\ and\ wishes.\ The\ user\ is\ then\n\ assigned\ a\ unique\ ID\ number\ \n\ \n
+comment3.params=nameRay\ numRay\ wishRay
+comment3.target=void\ OP2(java.lang.String[],\ int[],\ java.util.ArrayList[])
+comment3.text=\n\ Method\ OP2\ is\ user\ option\ 2\ where\ the\ user\ searches\ for\ wishes\ and\ ID\ number\ by\ name.\ \n\ \n
+comment4.params=nameRay\ numRay\ wishRay\ n
+comment4.target=void\ OP3(java.lang.String[],\ int[],\ java.util.ArrayList[],\ int)
+comment4.text=\n\ Method\ OP3\ is\ user\ option\ 3\ where\ the\ user\ can\ search\ for\ names\ and\ wishes\ by\ inputting\ the\ \n\ ID\ number\n\ \n
+comment5.params=nameRay\ numRay\ wishRay
+comment5.target=void\ OP4(java.lang.String[],\ int[],\ java.util.ArrayList[])
+comment5.text=\n\ Method\ OP4\ is\ user\ option\ 4\ where\ the\ user\ can\ search\ for\ names\ and\ ID\ numbers\ by\ \n\ inputting\ the\ a\ gift\ key\ word\n\ \n\ \n
+comment6.params=nameRay\ numRay\ wishRay
+comment6.target=void\ OP5(java.lang.String[],\ int[],\ java.util.ArrayList[])
+comment6.text=\n\ Method\ OP5\ is\ user\ option\ 5\ where\ the\ user\ can\ print\ out\ all\ the\ names,\ ID\ numbers\ and\ wishes\n\ \n
+numComments=7
